@@ -7,12 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in Shandong University of Finance and Economics, Software Engineering, 2019
-* M.S. in Shandong University, Computer Science & NLP, 2022 (expected)
+* M.Res. in Shandong University, Computer Science & NLP, 2022 (expected)
 
 Work experience
 ======
