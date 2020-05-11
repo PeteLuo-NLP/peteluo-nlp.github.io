@@ -6,7 +6,7 @@ When I was a young kid, the first time I owned my PC and connected it to the Int
 
 Now thanks to Github, the huge family for programmers and researchers all over the world, my dream comes true.
 
-I hope I can keep learning new fancy knowledge and meeting more and more interesting people. I treat this as the goal for my whole life.
+I hope I can keep learning new fancy knowledge and meeting more and more interesting people. I treat this as the goal of my whole life.
 
 Happy research, happy programming!
 
